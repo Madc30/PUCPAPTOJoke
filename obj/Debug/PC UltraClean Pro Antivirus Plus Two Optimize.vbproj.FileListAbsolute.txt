@@ -1,0 +1,12 @@
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\bin\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.exe.config
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\bin\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.exe
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\bin\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.pdb
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\bin\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.xml
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.vbprojAssemblyReference.cache
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC_UltraClean_Pro_Antivirus_Plus_Two_Optimize.Form1.resources
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC_UltraClean_Pro_Antivirus_Plus_Two_Optimize.Resources.resources
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.vbproj.GenerateResource.cache
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.vbproj.CoreCompileInputs.cache
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.exe
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.xml
+C:\Users\spect\source\repos\PC UltraClean Pro Antivirus Plus Two Optimize\PC UltraClean Pro Antivirus Plus Two Optimize\obj\Debug\PC UltraClean Pro Antivirus Plus Two Optimize.pdb

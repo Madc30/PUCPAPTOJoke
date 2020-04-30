@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PC UltraClean Pro Antivirus Plus Two Optimize
+</name>
+</assembly>
+<members>
+<member name="T:PC_UltraClean_Pro_Antivirus_Plus_Two_Optimize.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:PC_UltraClean_Pro_Antivirus_Plus_Two_Optimize.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:PC_UltraClean_Pro_Antivirus_Plus_Two_Optimize.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:PC_UltraClean_Pro_Antivirus_Plus_Two_Optimize.My.Resources.Resources.pucpato">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
