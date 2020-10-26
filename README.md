@@ -1,2 +1,2 @@
 # PUCPAPTOJoke
-PC UltraClean Pro Antivirus Plus Two Optimize Joke Program repository, Setup hosted on https://playermadc.wixsite.com/mocosofsouprt
+Shitty joke progam repository, Setup hosted on https://playermadc.wixsite.com/mocosofsouprt
